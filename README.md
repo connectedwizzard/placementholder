@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/connectedwizzard/placementholder/refs/heads/main/files/bg_github-whud.png)
+![Logo](https://github.com/connectedwizzard/placementholder/blob/main/files/bg_github-whud.png)
 # About
 > whud
 
