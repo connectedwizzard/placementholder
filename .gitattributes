@@ -1,2 +1,9 @@
+# Detect language
 *.res linguist-language=vdf
 **/*.res linguist-detectable=true
+whud/*.res linguist-detectable=true
+
+# Ignore all files
+*
+# Except the 'whud' file
+!whud
