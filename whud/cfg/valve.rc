@@ -1,0 +1,21 @@
+// load the base configuration
+//exec default.cfg
+//r_decal_cullsize 1
+
+// run a user script file if present
+exec autoexec.cfg
+
+// manage the firstrun file
+alias run_transparent "exec transparency.cfg"
+exec transparency.cfg
+run_transparent
+
+// stuff command line statements
+stuffcmds
+
+// Display the startup level
+startupmenu
+sv_unlockedchapters 99
+
+// Apply HUD settings
+vgui_cache_res_files 1
