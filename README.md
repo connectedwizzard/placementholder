@@ -1,4 +1,4 @@
-![Logo](https://github.com/connectedwizzard/placementholder/blob/main/.screenshots/background.png)
+![Logo](https://raw.githubusercontent.com/connectedwizzard/placementholder/refs/heads/main/.screenshots/background.png)
 # About
 > whud
 
@@ -7,6 +7,6 @@
 
 # Screenshots
 > Main Menu
-![Main Menu](https://github.com/connectedwizzard/placementholder/blob/main/.screenshots/mainmenu.jpg)
+![Main Menu](https://raw.githubusercontent.com/connectedwizzard/placementholder/refs/heads/main/.screenshots/mainmenu.jpg)
 > Viewmodels
-![Viewmodels](https://github.com/connectedwizzard/placementholder/blob/main/.screenshots/viewmodel.jpg)
+![Viewmodels](https://raw.githubusercontent.com/connectedwizzard/placementholder/refs/heads/main/.screenshots/viewmodel.jpg)
